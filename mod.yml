@@ -1,0 +1,80 @@
+title: The Rock
+originalAuthor: Shananas
+description:
+assets:
+- name: obj/F_HE020_A1.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_A1.mdlx
+- name: obj/F_HE020_A2.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_A2.mdlx
+- name: obj/F_HE020_B1.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_B1.mdlx
+- name: obj/F_HE020_B2.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_B2.mdlx
+- name: obj/F_HE020_C1.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_C1.mdlx
+- name: obj/F_HE020_C2.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_C2.mdlx
+- name: obj/F_HE020_PETE.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_PETE.mdlx
+#PC
+- name: remastered/obj/F_HE020_A1.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_A1.mdlx/-0.dds
+- name: remastered/obj/F_HE020_A2.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_A2.mdlx/-0.dds
+- name: remastered/obj/F_HE020_B1.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_B1.mdlx/-0.dds
+- name: remastered/obj/F_HE020_B2.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_B2.mdlx/-0.dds
+- name: remastered/obj/F_HE020_C1.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_C1.mdlx/-0.dds
+- name: remastered/obj/F_HE020_C2.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_C2.mdlx/-0.dds
+- name: remastered/obj/F_HE020_PETE.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/F_HE020_PETE.mdlx/-0.dds
+- name: remastered/obj/F_HE020_A1.a.us/se/obj/se279
+  multi:
+  - name: remastered/obj/F_HE020_A2.a.us/se/obj/se279
+  - name: remastered/obj/F_HE020_B1.a.us/se/obj/se279
+  - name: remastered/obj/F_HE020_B2.a.us/se/obj/se279
+  - name: remastered/obj/F_HE020_C1.a.us/se/obj/se279
+  - name: remastered/obj/F_HE020_C2.a.us/se/obj/se279
+  - name: remastered/obj/F_HE020_PETE.a.us/se/obj/se279
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/se279.scd
