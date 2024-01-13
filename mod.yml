@@ -1,6 +1,6 @@
 title: The Rock
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
 - name: obj/F_HE020_A1.mdlx
   method: copy
