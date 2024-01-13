@@ -30,6 +30,10 @@ assets:
   method: copy
   source:
   - name: obj/F_HE020_PETE.mdlx
+- name: obj/F_HE020_PO.mdlx
+  method: copy
+  source:
+  - name: obj/F_HE020_PO.mdlx
 #PC
 - name: remastered/obj/F_HE020_A1.mdlx/-0.dds
   platform: pc
@@ -66,6 +70,16 @@ assets:
   method: copy
   source:
   - name: remastered/obj/F_HE020_PETE.mdlx/-0.dds
+- name: remastered/obj/F_HE020_PO.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/rock/F_HE020_PO.mdlx/-0.dds
+- name: remastered/obj/F_HE020_PO.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/rock/F_HE020_PO.mdlx/-1.dds
 - name: remastered/obj/F_HE020_A1.a.us/se/obj/se279
   multi:
   - name: remastered/obj/F_HE020_A2.a.us/se/obj/se279
